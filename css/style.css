@@ -100,7 +100,6 @@ main .testimonials-slider .testimonials-image .testimonials-button .next {
 
 @media (max-width: 840px) {
   main .testimonials-slider {
-    flex-direction: column;
     flex-direction: column-reverse;
     max-width: 300px;
   }
