@@ -33,7 +33,7 @@ main{
             width: 70%;
             z-index: -2;
         }
-        .patter-quote{
+        .pattern-quote{
             position: absolute;
             top: 50px;
             left: 80px;
@@ -90,6 +90,101 @@ main{
                 }
                 .next{
                     border-radius: 0 30px 30px 0;
+                }
+            }
+        }
+    }
+}
+@media(max-width: 840px){
+    main{
+        .testimonials-slider{
+            flex-direction: column;
+            flex-direction: column-reverse;
+            max-width: 300px;
+            .pattern-bg{
+                left: -50px;
+                bottom: 260px;
+                width: 130%;
+            }
+            .pattern-quote{
+                top: 330px;
+                left: 90px;
+                width: 15%;
+            }
+            .pattern-curve{
+                left: 0;
+                bottom: 0;
+                width: 90%;
+            }
+            .testimonials-text{
+                left: 0;
+                height: 250px;
+                text-align: center;
+                .testimonials-info{
+                    display: block;
+                    text-align: center;
+                    .name,
+                    .job{
+                        margin: 0.5em 0;
+                    }
+                }
+            }
+            .testimonials-image{
+                .testimonials-button{
+                    width: 28.1%;
+                    left: 110px;
+                }
+            }
+        }
+    }
+}
+@media(max-width: 360px){
+    main{
+        .testimonials-slider{
+            max-width: 200px;
+            .pattern-bg{
+                left: -40px;
+                bottom: 360px;
+                width: 130%;
+            }
+            .pattern-quote{
+                top: 240px;
+                left: 90px;
+                width: 15%;
+            }
+            .pattern-curve{
+                left: 0;
+                bottom: 0;
+                width: 90%;
+            }
+            .testimonials-text{
+                left: 0;
+                height: 250px;
+                text-align: center;
+                height: 350px;
+                .text{
+                    font-size: 0.85rem;
+                    margin: 1em 0 1.5em 0;
+                }
+                .testimonials-info{
+                    display: block;
+                    text-align: center;
+                    .name,
+                    .job{
+                        margin: 0.5em 0;
+                    }
+                }
+            }
+            .testimonials-image{
+                .testimonials-button{
+                    width: 43%;
+                    left: 30px;
+                    .testimonials-button{
+                        .prev,
+                        .next{
+                            padding: 0.2rem 1rem 0.4rem 1rem;
+                        }
+                    }
                 }
             }
         }

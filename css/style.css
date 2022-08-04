@@ -37,7 +37,7 @@ main .testimonials-slider .pattern-curve {
   width: 70%;
   z-index: -2;
 }
-main .testimonials-slider .patter-quote {
+main .testimonials-slider .pattern-quote {
   position: absolute;
   top: 50px;
   left: 80px;
@@ -96,4 +96,90 @@ main .testimonials-slider .testimonials-image .testimonials-button .next {
 }
 main .testimonials-slider .testimonials-image .testimonials-button .next {
   border-radius: 0 30px 30px 0;
+}
+
+@media (max-width: 840px) {
+  main .testimonials-slider {
+    flex-direction: column;
+    flex-direction: column-reverse;
+    max-width: 300px;
+  }
+  main .testimonials-slider .pattern-bg {
+    left: -50px;
+    bottom: 260px;
+    width: 130%;
+  }
+  main .testimonials-slider .pattern-quote {
+    top: 330px;
+    left: 90px;
+    width: 15%;
+  }
+  main .testimonials-slider .pattern-curve {
+    left: 0;
+    bottom: 0;
+    width: 90%;
+  }
+  main .testimonials-slider .testimonials-text {
+    left: 0;
+    height: 250px;
+    text-align: center;
+  }
+  main .testimonials-slider .testimonials-text .testimonials-info {
+    display: block;
+    text-align: center;
+  }
+  main .testimonials-slider .testimonials-text .testimonials-info .name,
+main .testimonials-slider .testimonials-text .testimonials-info .job {
+    margin: 0.5em 0;
+  }
+  main .testimonials-slider .testimonials-image .testimonials-button {
+    width: 28.1%;
+    left: 110px;
+  }
+}
+@media (max-width: 360px) {
+  main .testimonials-slider {
+    max-width: 200px;
+  }
+  main .testimonials-slider .pattern-bg {
+    left: -40px;
+    bottom: 360px;
+    width: 130%;
+  }
+  main .testimonials-slider .pattern-quote {
+    top: 240px;
+    left: 90px;
+    width: 15%;
+  }
+  main .testimonials-slider .pattern-curve {
+    left: 0;
+    bottom: 0;
+    width: 90%;
+  }
+  main .testimonials-slider .testimonials-text {
+    left: 0;
+    height: 250px;
+    text-align: center;
+    height: 350px;
+  }
+  main .testimonials-slider .testimonials-text .text {
+    font-size: 0.85rem;
+    margin: 1em 0 1.5em 0;
+  }
+  main .testimonials-slider .testimonials-text .testimonials-info {
+    display: block;
+    text-align: center;
+  }
+  main .testimonials-slider .testimonials-text .testimonials-info .name,
+main .testimonials-slider .testimonials-text .testimonials-info .job {
+    margin: 0.5em 0;
+  }
+  main .testimonials-slider .testimonials-image .testimonials-button {
+    width: 43%;
+    left: 30px;
+  }
+  main .testimonials-slider .testimonials-image .testimonials-button .testimonials-button .prev,
+main .testimonials-slider .testimonials-image .testimonials-button .testimonials-button .next {
+    padding: 0.2rem 1rem 0.4rem 1rem;
+  }
 }/*# sourceMappingURL=style.css.map */
