@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/joemar-ceneza/testimonials-slider)
-- Live Site URL: [Add live site URL here](https://joemar-ceneza.github.io/testimonials-slider/)
+- Solution URL: [Solution URL here](https://github.com/joemar-ceneza/testimonials-slider)
+- Live Site URL: [Live Site URL here](https://joemar-ceneza.github.io/testimonials-slider/)
 
 ## My process
 
