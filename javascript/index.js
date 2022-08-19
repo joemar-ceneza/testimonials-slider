@@ -65,3 +65,18 @@ prevBtn.addEventListener("click", function(){
     }
     showPerson(currentItem);
 });
+
+document.addEventListener("keydown", function(event){
+    if(event.key === "ArrowRight"){
+        currentItem++;
+        if(currentItem > info.length - 1){
+            currentItem = 0;
+        }
+    } else if(event.key == "ArrowLeft"){
+        currentItem--;
+        if(currentItem < 0){
+            currentItem = info.length - 1;
+        }
+    }
+    showPerson(currentItem);
+});
