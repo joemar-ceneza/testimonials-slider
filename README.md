@@ -1,4 +1,4 @@
-# Frontend Mentor - Coding bootcamp testimonials slider solution
+# Testimonials Slider
 
 This is a solution to the [Coding bootcamp testimonials slider challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/joemar-ceneza/testimonials-slider)
-- Live Site URL: [Add live site URL here](https://joemar-ceneza.github.io/testimonials-slider/)
+- Solution URL: [Solution URL here](https://github.com/joemar-ceneza/testimonials-slider)
+- Live Site URL: [Live Site URL here](https://joemar-ceneza.github.io/testimonials-slider/)
 
 ## My process
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Color Flipper Tutorial](https://www.youtube.com/watch?v=c5SIG7Ie0dM&t=421s) by [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
+- [Reviews Tutorial](https://www.youtube.com/watch?v=c5SIG7Ie0dM&t=421s) by [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
 - [Javascript Tutorial and Projects Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) by [John Smilga](https://www.johnsmilga.com/)
 
 ## Front-end Style Guide
