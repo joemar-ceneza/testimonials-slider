@@ -41,7 +41,8 @@ Users should be able to:
 - JavaScript
 - If statement
 - Increment and Decrement
-- Call back function
+- JavaScript Callbacks
+- KeyboardEvent key Property
 
 ### Useful resources
 
