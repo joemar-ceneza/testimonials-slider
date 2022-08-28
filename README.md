@@ -1,6 +1,6 @@
 # Testimonials Slider
 
-This is a solution to the [Coding bootcamp testimonials slider challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+A testimonial is effectively a review or recommendation from a client, letting other people know how your products or services benefitted them made with HTML, CSS/Sass and JavaScript
 
 ## Table of contents
 
