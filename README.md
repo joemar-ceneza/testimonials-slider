@@ -1,6 +1,6 @@
 # Testimonials Slider
 
-A testimonial is effectively a review or recommendation from a client, letting other people know how your products or services benefitted them made with HTML, CSS/Sass and JavaScript
+In promotion and advertising, a testimonial or show consists of a person's written or spoken statement extolling the virtue of a product. This project made with HTML, CSS/Sass and JavaScript.
 
 ## Table of contents
 
