@@ -11,6 +11,9 @@ In promotion and advertising, a testimonial or show consists of a person's writt
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
+- [Front End Style](#front-end-style-guide)
+- [Colors](#colors)
+- [Typography](#typography)
 
 ## Overview
 
